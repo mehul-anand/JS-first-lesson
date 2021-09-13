@@ -1,7 +1,33 @@
-.text-ar{
+#text-input{
     display: block;
-    width: 78%;
     height: 15vh;
-    margin-bottom:2rem;
+    width: 600px;
+    margin: 3rem 17rem;
+    padding: 1.3rem;
     font-size: 1.3rem;
+}
+#output{
+    border: 1px solid black;
+    height: 15vh;
+    max-width: 600px;
+    margin: 3rem 17rem;
+    padding: 1.3rem;
+    font-size: 1.3rem;
+}
+#btn-translate{
+    font-size: 1.5rem;
+    width: 200px;
+    height: 10vh;
+    margin: 4rem 10rem;
+    background-color:#FCD34D ;
+    color: brown;
+}
+nav{
+    background-color: #FCD34D;
+    padding: 2.5rem;
+}
+
+footer{
+    background-color: #FCD34D;
+    padding: 3rem;
 }
